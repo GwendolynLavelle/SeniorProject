@@ -1,0 +1,54 @@
+.navbar {
+    position: fixed;
+    background-image: url(greymarble.jpg);
+}
+
+.jumbotron {
+    margin-top: 20px;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: contain;
+    background-color: white;
+    min-height: 50vh;
+    color: black;
+    text-decoration-color: aliceblue;
+}
+
+
+
+
+table, th, tr{
+    height: 10px;
+    text-align: center;
+    background-color: rgb(186, 212, 187);
+    border: solid;
+    position: center;
+}
+
+
+
+
+#definition{
+    background-color: rgb(186, 212, 187);
+}
+
+
+
+
+/* Dropdown Button */
+.beeroptions {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+    /* Dropdown button on hover & focus */
+    .dropbtn:hover, .dropbtn:focus {
+        background-color: #2980B9;
+    }
+
+
+
